@@ -1,3 +1,3 @@
-# Personal-finance-application
+# Workout-application
 
-## Hello! Welcome to Vihaan Philip's Personal Finance Application, Developed using MERN!
+## Hello! Welcome to Vihaan Philip's Workout Application, Developed using MERN!
